@@ -1,4 +1,4 @@
-package participantes;
+
 import java.util.Scanner;
 
 public class Participantes {
