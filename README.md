@@ -10,11 +10,11 @@
 
 - [ ] Precisa ter uma página inicial institucional estática, a página inicial;
 - [ ] Demais páginas precisam ser dinâmicas e abordar os casos de uso;
-- [ ] Ser responsivo, ter pontos de quebra para celular e Desktop;
+- [X] Ser responsivo, ter pontos de quebra para celular e Desktop;
 - [ ] Identidade visual com palheta de cores (até 05) e fontes;
 - [ ] Possuir controle de acesso de usuários;
 - [ ] Ter entre 05 e 10 componentes distintos do Bootstrap. Entende-se como componentes tudo da seção Components;
-- [ ] Diagrama Entidade-Relacionamento do banco de dados;
+- [X] Diagrama Entidade-Relacionamento do banco de dados;
 - [ ] O sistema precisa ter autenticação de usuários.
 
 ## Requisitos específicos:
@@ -28,3 +28,5 @@
 - [ ] Avaliar o evento com estrelas e comentários;
 - [ ] Pro organizador, mostrar um dashboard de engajamento dos eventos, mostrar participantes;
 - [ ] Fazer busca por eventos com filtros variados.
+---------------------------------------------------------------------------------------------------------------------------------------
+<img src="img/Diagrama E-R SAPER_EVENTOS.png">
