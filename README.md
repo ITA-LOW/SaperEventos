@@ -11,7 +11,7 @@
 - [ ] Precisa ter uma página inicial institucional estática, a página inicial;
 - [X] Demais páginas precisam ser dinâmicas e abordar os casos de uso;
 - [X] Ser responsivo, ter pontos de quebra para celular e Desktop;
-- [ ] Identidade visual com palheta de cores (até 05) e fontes;
+- [X] Identidade visual com palheta de cores (até 05) e fontes;
 - [ ] Possuir controle de acesso de usuários;
 - [X] Ter entre 05 e 10 componentes distintos do Bootstrap. Entende-se como componentes tudo da seção Components;
 - [X] Diagrama Entidade-Relacionamento do banco de dados;
