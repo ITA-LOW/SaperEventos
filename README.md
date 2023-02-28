@@ -1,4 +1,4 @@
-# SaperEventos
+# SaperEventos - https://saper-eventos.netlify.app/
 
 ## Objetivo: criar sistema que gerencia os eventos de uma Instituição de ensino.
         1 - Processos automatizados para realização de inscrições e emissão de certificados de eventos realizados;
